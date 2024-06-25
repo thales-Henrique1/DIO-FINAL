@@ -1,2 +1,2 @@
 # DIO-FINAL
-Projeto feito em outsystems. Foi feito para o curso da DIO
+Projeto feito em outsystems. Foi feito para o concluir o desafio proposto no curso(Formação OutSystems Fundamentals) da DIO
